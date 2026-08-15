@@ -1,0 +1,13 @@
+# Zed extensions — canonical install manifest
+# Install on a fresh machine: Zed > Extensions panel, or `zed install <name>`
+#
+# Pruned from backup/2026-08-13/extensions.txt:
+#   removed astro, svelte, toml (not TypeScript-ecosystem)
+#   removed vercel-theme (replaced by our own themes/mehedi-dark.json)
+# Re-add per project as needed.
+
+biome
+charmed-icons
+dockerfile
+git-firefly
+html

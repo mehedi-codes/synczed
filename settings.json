@@ -1,0 +1,17 @@
+{
+  "ui_font_size": 16,
+  "buffer_font_size": 15,
+  "ui_font_family": "Operator Mono Book",
+  "buffer_font_family": "Operator Mono Lig Book",
+  "buffer_font_features": { "calt": true },
+  "theme": {
+    "mode": "dark",
+    "light": "Mehedi Dark",
+    "dark": "Mehedi Dark"
+  },
+  "icon_theme": {
+    "mode": "dark",
+    "light": "Warm Charmed Icons",
+    "dark": "Warm Charmed Icons"
+  }
+}

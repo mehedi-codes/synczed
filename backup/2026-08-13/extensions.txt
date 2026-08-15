@@ -1,0 +1,13 @@
+# Installed Zed extensions (backup manifest)
+# Captured: 2026-08-13
+# Reinstall on a fresh machine: zed: extensions > search each name
+
+astro
+biome
+charmed-icons
+dockerfile
+git-firefly
+html
+svelte
+toml
+vercel-theme
